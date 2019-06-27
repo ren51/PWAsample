@@ -7,7 +7,7 @@
   "scope": "/",
   "start_url": "/index.html",
   "icons": [{
-      "src": "./janken192.png",
+      "src": "/janken192.png",
       "sizes": "192x192",
       "type": "image/png"
     }{
